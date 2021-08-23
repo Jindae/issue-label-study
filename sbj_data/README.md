@@ -1,4 +1,4 @@
-## Subject Informaton
+## Subject Information
 
 Information and statistics collected and produced during the study, which includes projects, issues and labels.   
 Detailed description for the files can be found [here](#headers).  
