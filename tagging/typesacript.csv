@@ -1,0 +1,128 @@
+tag0,tag1,tag2,label,description,color,#open issues,#closed issues,#total issues,#count
+development,development phase,design,By Design,"Deprecated - use ""Working as Intended"" or ""Design Limitation"" instead",fbca04,0,568,568,1
+development,development phase,design,Design Limitation,Constraints of the existing architecture prevent this from being fixed,fbca04,254,493,747,1
+development,development phase,design,Design Notes,Notes from our design meetings,bfdadc,39,191,230,1
+development,development phase,design/solution,Canonical,This issue contains a lengthy and complete description of a particular problem solution or design,0,0,32,32,1
+development,documentation,docs,Docs Meeting Notes,Write-ups on the meeting every two weeks on docs topics,74f7c9,3,1,4,1
+development,documentation,docs,Docs,The issue relates to how you learn TypeScript,5.32E+10,100,200,300,1
+development,documentation,docs,Update Docs on Next Release,Indicates that this PR affects docs,fbca04,0,26,26,1
+development,development phase,experiment,Experiment,A fork with an experimental idea which might not make it into master,acd617,44,24,68,1
+development,development phase,experiment,Experimentation Needed,Someone needs to try this out to see what happens,ebff56,21,5,26,1
+development,development phase,experiment,typescript@experimental,Pull requests tagged with this label are automatically rebased together with master and published,e85100,1,0,1,1
+development,development phase,implementation,lib update,PR modifies files in the `lib` folder,561584,7,84,91,1
+development,development phase,implementation,Paths in Generated import(...)s,Poor Paths in import(...) types.,b52422,0,1,1,1
+development,development phase,implementation,@types,Relates to working with .d.ts files (declaration/definition files) from DefinitelyTyped,bfd4f2,3,65,68,1
+development,development phase,plan,Planning,Iteration plans and roadmapping,4770b7,3,12,15,1
+development,development phase,release plan,Committed,The team has roadmapped this issue,9800,48,241,289,1
+development,development phase,new release,new release,,ededed,0,0,0,1
+development,version,ES Next,ES Next,New featurers for ECMAScript (a.k.a. ESNext),bfd4f2,16,35,51,1
+development,version,ES6,ES6,Relates to the ES6 Spec,c7def8,24,73,97,1
+development,version,ES7,ES7,Relates to the ES7 Spec,bfd4f2,0,5,5,1
+development,version,ES2017,ES2017,Relates to the ES2017 Spec,c7def8,1,2,3,1
+development,version,ES2018,ES2018,Relates to the ES2018 Spec,c7def8,1,1,2,1
+development,version,ES2019,ES2019,Relates to the ES2019 Spec,313fa5,0,2,2,1
+etc.,author,author,Author: Contributor,,F1DD35,0,0,0,1
+etc.,author,author,Author: Team,,3178C6,77,842,919,1
+etc.,festival,Festival,PursuitFellowship,Help wanted from Pursuit fellowship; others please avoid until Dec 19,4cc95f,32,19,51,1
+feature,environment,tool,Community Tooling,This might be better handled by tooling from the community instead of built into TypeScript,bfe5cf,3,10,13,1
+feature,environment,visual studio,Visual Studio,Integration with Visual Studio,007ACC,32,258,290,1
+feature,environment,external,External,Relates to another program environment or user action which we cannot control.,eb6420,0,669,669,1
+feature,environment,compiler,Just Throw Hindley-Milner At It,I want the type system to leverage some sort of unification-based inference,a02216,0,0,0,1
+feature,functionality,compilation,Domain: --incremental,The issue relates to incremental compilation,42d182,3,8,11,1
+feature,functionality,auto-import,Domain: Auto-import,,61a8f4,11,17,28,1
+feature,functionality,big unions,Domain: Big Unions,The root cause is ultimately that big unions interact poorly with complex structures,a17bf2,3,3,6,1
+feature,functionality,compilation,Domain: Comment Emit,The issue relates to the emission of comments when compiling,148A14,14,15,29,1
+feature,functionality,editor,Domain: Completion Lists,The issue relates to showing completion lists in an editor,006b75,72,153,225,1
+feature,functionality,types,Domain: Conditional Types,The issue relates to conditional types,f9a2f4,16,19,35,1
+feature,functionality,types,Domain: Contextual Types,The issue relates to contextual types,8958c9,6,15,21,1
+feature,functionality,analysis,Domain: Control Flow,The issue relates to control flow analysis,1d76db,19,13,32,1
+feature,functionality,declaration,Domain: Declaration Emit,The issue relates to the emission of d.ts files,fef2c0,26,100,126,1
+feature,functionality,syntax,Domain: Decorators,The issue relates to the decorator syntax,fbca04,16,19,35,1
+feature,functionality,error message,Domain: Error Messages,The issue relates to error messaging,fef2c0,102,194,296,1
+feature,functionality,module,Domain: ES Modules,The issue relates to import/export style module behavior,b60205,7,17,24,1
+feature,functionality,property,Domain: Excess Property Checking,,75eaa2,0,1,1,1
+feature,functionality,formater,Domain: Formatter,The issue relates to the built-in formatter,8255cc,52,120,172,1
+feature,functionality,types,Domain: Index Types,Issues with `keyof`,f7b7e9,1,0,1,1
+feature,functionality,types,Domain: Indexed Access Types,The issue relates to accessing subtypes via index access,8d8ff4,3,6,9,1
+feature,functionality,types,Domain: Literal Types,Unit types including string literal types numeric literal types Boolean literals null undefined,FB3A4B,2,38,40,1
+feature,functionality,types,Domain: Mapped Types,The issue relates to mapped types,5319c7,8,19,27,1
+feature,functionality,editor,Domain: Signature Help,Information in editor tooltips when invoking a function call,b22361,9,20,29,1
+feature,functionality,editor,Domain: Smart-Select,Range expansion APIs for editors,ffe2c6,1,2,3,1
+feature,functionality,editor,Domain: Smart Indentation,Automatic indenting after a newline (not quite formatter/formatting),ff75a0,2,0,2,1
+feature,functionality,navigation,Domain: Symbol Navigation,Relates to go-to-definition find-all-references highlighting/occurrences.,333496,33,14,47,1
+feature,functionality,types,Domain: This-Typing,The issue relates to providing types to this,bfdadc,1,5,6,1
+feature,functionality,API,Domain: Transforms,Relates to the public transform API,006b75,8,258,266,1
+feature,functionality,mode,Domain: tsc -b,Issues related to build mode,adb8f4,2,4,6,1
+feature,functionality,server,Domain: TSServer,Issues related to the TSServer,1d76db,31,53,84,1
+feature,functionality,types,Domain: Type Display,Bugs relating to showing types in Quick Info/Tooltips Signature Help or Completion Info,0a1670,10,3,13,1
+feature,functionality,types,Domain: Type Inference,Related to type inference performed during signature resolution or `infer` type resolution,69e57e,8,12,20,1
+feature,functionality,relationships,Domain: Variance Relationships,The issue relates to variance relationships between types,ef9686,2,0,2,1
+feature,functionality,API,API,Relates to the public API for TypeScript,bfe5bf,100,308,408,1
+feature,functionality,import,Domain: Organize Imports,Issues with the organize imports feature,c2e0c6,6,19,25,1
+feature,functionality,outline,Domain: Outlining,Relates to multi-line regions that editors can collapse,5af4ce,6,23,29,1
+feature,functionality,quick fixes,Domain: Quick Fixes,Editor-provided fixes often called code actions.,d4c5f9,62,174,236,1
+feature,functionality,quick info,Domain: Quick Info,e.g. hover text tool-tips and tooltips.,5071bf,44,17,61,1
+feature,functionality,refactoring,Domain: Refactorings,e.g. extract to constant or function rename symbol,5.32E+10,73,152,225,1
+feature,functionality,error message,Domain: Related Error Spans,Specifying regions for error messages/diagnostics on multiple locations.,2bdb6c,8,15,23,1
+feature,functionality,editor,Source: Telemetry,The issue relates to the telemetry in editors,7953cc,75,221,296,1
+feature,functionality,composite projects,Scenario: Monorepos & Cross-Project References,"Relates to composite projects (a.k.a references between ""medium sized projects"")",f93fdb,8,15,23,1
+feature,language,JavaScript,Domain: JS Emit,The issue relates to the emission of JavaScript,fce66c,5,10,15,1
+feature,language,JavaScript,Domain: JSDoc,Relates to JSDoc parsing and type generation,c5def5,90,154,244,1
+feature,language,JavaScript,Domain: JSX/TSX,Relates to the JSX parser and emitter,207de5,23,94,117,1
+feature,language,libraries,Domain: lib.d.ts,The issue relates to the different libraries shipped with TypeScript,c7def8,182,554,736,1
+feature,language,JavaScript,checkJs,Relates to checking JavaScript using TypeScript,3074a5,23,52,75,1
+feature,language,JavaScript,Domain: JavaScript,The issue relates to JavaScript specifically,f0db4f,121,62,183,1
+feature,language,typeScript,Spec,Issues related to the TypeScript language specification,207de5,0,162,162,1
+feature,non-functionality,Internationalization,i18n,(Ping PDostalek) Internationalization/translation of messages in the compiler.,2f47ce,1,26,27,1
+feature,non-functionality,performance,Domain: Performance,Reports of unusually slow behavior,97f4eb,29,48,77,1
+issue,issue priority,crash,Crash,For flagging bugs which are compiler or service crashes or unclean exits rather than bad output,d93f0b,20,126,146,1
+issue,issue priority,discussion,Discussion,Issues which may not have code impact,5.32E+10,38,65,103,1
+issue,issue priority,difficult,Effort: Difficult,Good luck.,d10401,14,15,29,1
+issue,issue priority,moderate,Effort: Moderate,Should be feasible,207de5,86,137,223,1
+issue,issue priority,high,High Priority,,e11d21,0,158,158,1
+issue,issue priority,out of scope,Out of Scope,This idea sits outside of the TypeScript language design constraints,556677,10,442,452,1
+issue,issue priority,critical,VS Code Priority,Critical issues that VS Code needs fixed in the current TypeScript milestone,1d76db,0,68,68,1
+issue,issue status,deprecated,Website Logo,Deprecated,fef2c0,0,203,203,1
+issue,issue status,deprecated,Website,Deprecated - please forward issue to microsoft/TypeScript-Website,2d81c6,2,39,41,1
+issue,issue status,declined,Declined,The issue was declined as something which matches the TypeScript vision,556677,13,466,479,1
+issue,issue status,duplicate,Duplicate,An existing issue was already created,f7c6c7,8,4108,4116,1
+issue,issue status,fixed,Fix Available,A PR has been opened for this issue,bfe5bf,80,756,836,1
+issue,issue status,fixed,Fixed in TSJS repo,Fix merged in https://github.com/Microsoft/TSJS-lib-generator but not ported yet,1d76db,1,1,2,1
+issue,issue status,fixed,Fixed,A PR has been merged for this issue,80e580,7,5539,5546,1
+issue,issue status,fixed,Has Repro,This issue has compiler-backed repros: https://aka.ms/ts-repros,ededed,23,14,37,1
+issue,issue status,help wanted,help wanted,You can do this,05ba65,583,1256,1839,1
+issue,issue status,impact,Impact: Bad Emit,,e99695,0,1,1,1
+issue,issue status,impact,Impact: Failed LS Operation,,d6c348,2,1,3,1
+issue,issue status,impact,Impact: Incorrect Inference,,f9d0c4,0,0,0,1
+issue,issue status,discussion,In Discussion,Not yet reached consensus,556b75,549,205,754,1
+issue,issue status,invalid,invalid,Bad-faith PRs Hacktoberfest spam,e2222b,0,20,20,1
+issue,issue status,investigating,Investigating,Is in active investigation,556677,1,1,2,1
+issue,issue status,needs investigation,Needs Investigation,This issue needs a team member to investigate its status.,DDDDDD,344,260,604,1
+issue,issue status,need more info,Needs More Info,The issue still hasn't been fully clarified,556b75,200,891,1091,1
+issue,issue status,needs proposal,Needs Proposal,This issue needs a plan that clarifies the finer details of how it could be implemented.,556b75,236,158,394,1
+issue,issue status,nees repro,Repro Requested,Indicates that we'd like a compiler backed repro for this issue: https://aka.ms/ts-repros,5cc401,0,0,0,1
+issue,issue status,rescheduled,Rescheduled,This issue was previously scheduled to an earlier milestone,5.32E+10,220,115,335,1
+issue,issue status,revisit,Revisit,An issue worth coming back to,006b75,26,74,100,1
+issue,issue status,unactionable,Unactionable,There isn't something we can do with this issue,CCCCCC,2,197,199,1
+issue,issue status,waiting,Waiting for TC39,Unactionable until TC39 reaches some conclusion,556b75,12,2,14,1
+issue,issue status,wont fix,Won't Fix,The severity and priority of this issue do not warrant the time or complexity needed to fix it,fbca04,2,210,212,1
+issue,issue status,intention,Working as Intended,The behavior described is the intended behavior; this is not a bug,fbca04,5,2510,2515,1
+issue,issue status,blocked,Blocked,A fix for this issue is blocked on another fix being in place,e67cf4,2,0,2,1
+issue,issue status,change,Breaking Change,Would introduce errors in existing code,eb6420,26,302,328,1
+issue,issue status,feedback,Awaiting More Feedback,This means we'd like to hear from more people who would be helped by this feature,556677,847,125,972,1
+issue,issue type,enhancement,Experience Enhancement,Noncontroversial enhancements,556677,229,149,378,1
+issue,issue type,feature-request,feature-request,A request for a new feature,ededed,4,6,10,1
+issue,issue type,team,Infrastructure,Issue relates to TypeScript team infrastructure,fbca04,54,205,259,1
+issue,issue type,insider,insiders,,ededed,0,0,0,1
+issue,issue type,team,Meta-Issue,An issue about the team or the direction of TypeScript,bfdadc,18,7,25,1
+issue,issue type,bug,For Backlog Bug,PRs that fix a backlog bug,9ff4ed,85,231,316,1
+issue,issue type,bug,For Milestone Bug,PRs that fix a bug with a specific milestone,001f77,60,393,453,1
+issue,issue type,bug,For Uncommitted Bug,PR for untriaged rejected closed or missing bug,ededed,71,588,659,1
+issue,issue type,first issue,good first issue,Well scoped documented and has the green light,7944ba,50,297,347,1
+issue,issue type,internal,Housekeeping,Housekeeping PRs,d3682a,1,41,42,1
+issue,issue type,question,Question,An issue which isn't directly actionable in code,d4c5f9,3,2844,2847,1
+issue,issue type,suggestion,Suggestion,An idea for TypeScript,006b75,2111,2416,4527,1
+issue,issue type,complex,Too Complex,An issue which adding support for may be too complex for the value it adds,556677,21,203,224,1
+issue,issue type,tracked,VS Code Tracked,There is a VS Code equivalent to this issue,1d76db,97,562,659,1
+issue,issue type,bug,Bug,A bug in TypeScript,e11d21,1624,7020,8644,1
+issue,issue type,problem,Add a Flag,Any problem can be solved by flags except for the problem of having too many flags,1d76db,14,10,24,1

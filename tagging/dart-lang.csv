@@ -1,0 +1,209 @@
+,tag1,tag2,label,description,color,#open issues,#closed issues,#total issues
+1,configuration,Contributor License Agreement,cla: no,,d93f0b,1,13,14
+1,configuration,Contributor License Agreement,cla: yes,,fcfcfc,3,339,342
+1,configuration,merge,merge-to-beta,,006b75,0,7,7
+1,configuration,merge,merge-to-dev,,006b75,0,722,722
+1,configuration,merge,merge-to-stable,,006b75,0,122,122
+1,configuration,move,moved-from-dart-2-beta-3,,fef2c0,1,5,6
+1,configuration,move,moved-from-dart-2-beta-4,,0e8a16,2,9,11
+1,configuration,version,preview-dart-2,,118e7e,1,24,25
+1,development phase,implementation,gardening,,E91E63,112,312,424
+1,development phase,nnbd release,NNBD,Issues related to NNBD Release,fef2c0,232,617,849
+1,development phase,nnbd release,nnbd-migration-correctness-example,Concrete examples of the migration engine producing an incorrect result on a phase 1 package,bfdadc,15,14,29
+1,development phase,patch,stable-patch-candidate,,b60205,1,3,4
+1,development phase,requirement,Epic,,3E4B9E,31,26,57
+1,development phase,testing,fuzz-dust,found with dust fuzz testing,999999,76,52,128
+1,development phase,type,type-design,,ededed,2,11,13
+1,documentation,documentation,docs-api,,f7eda0,12,93,105
+1,documentation,documentation,docs-articles,,f7eda0,1,65,66
+1,documentation,documentation,docs-tools,,f7eda0,1,59,60
+1,documentation,documentation,docs-tutorials,,f7eda0,0,47,47
+1,documentation,type,type-documentation,,ededed,121,289,410
+1,environment,browser,browser-chrome,,fef2c0,3,19,22
+1,environment,browser,browser-firefox,,fef2c0,5,18,23
+1,environment,browser,browser-ie,,fef2c0,6,36,42
+1,environment,browser,browser-safari,,fef2c0,5,11,16
+1,environment,os,os-android,,fef2c0,5,4,9
+1,environment,os,os-fuchsia,,fef2c0,4,9,13
+1,environment,os,os-linux,,fef2c0,1,66,67
+1,environment,os,os-osx,,fef2c0,6,44,50
+1,environment,os,os-windows,,fef2c0,22,173,195
+1,environment,process/position,P0,,e11d21,0,447,447
+1,environment,process/position,P1,,eb6420,40,3581,3621
+1,environment,process/position,P2,,fbca04,1092,2451,3543
+1,environment,process/position,P3,,bfe5bf,287,934,1221
+1,environment,process/position,P4,,DDDDDD,16,10,26
+1,environment,vm,vm-aot-code-size,Related to improvements in AOT code size,8453b2,35,14,49
+1,environment,vm,vm-debugger,,d4c5f9,9,86,95
+1,environment,vm,vm-hot-reload,,d4c5f9,27,65,92
+1,environment,vm,vm-native,,2e36c9,13,12,25
+1,environment,vm,vm-new-configuration-failure,This issue represents a test which is failing in a recently introduced test configuration.,e54d06,2,1,3
+1,environment,vm,vm-nnbd-sdk-complete,All new NNBD and ported NNBD tests pass,1d64c6,8,11,19
+1,environment,vm,vm-nnbd-unfork-sdk,Label for all issues that need to be done before the nnbd sdk can be unforked,1d76db,3,48,51
+1,environment,vm,vm-regression,,d4c5f9,4,21,25
+1,environment,vm,vm-technical-debt,This label tries to capture all the technical debt that we have accumulated in the Dart VM,bfdadc,3,4,7
+1,functionality,analyzer,analyzer-api,Issues that impact the public API of the analyzer package,d4c5f9,14,8,22
+1,functionality,analyzer,analyzer-ast-builder,Issues with the AstBuilder class in the analyzer,d4c5f9,10,1,11
+1,functionality,analyzer,analyzer-command,,d4c5f9,14,96,110
+1,functionality,analyzer,analyzer-completion,,d4c5f9,90,249,339
+1,functionality,analyzer,analyzer-completion-ml,,17acb7,4,5,9
+1,functionality,analyzer,analyzer-constants,,d4c5f9,5,28,33
+1,functionality,analyzer,analyzer-crash-report,,d4c5f9,172,479,651
+1,functionality,analyzer,analyzer-dartfix,,d4c5f9,9,21,30
+1,functionality,analyzer,analyzer-editing-experience,,6c2eb2,2,0,2
+1,functionality,analyzer,analyzer-hint,,d4c5f9,62,158,220
+1,functionality,analyzer,analyzer-linter,,d4c5f9,28,109,137
+1,functionality,analyzer,analyzer-lsp,,d4c5f9,6,10,16
+1,functionality,analyzer,analyzer-nnbd-migration,Issues and design discussions for the NNBD migration tool,d4c5f9,158,140,298
+1,functionality,analyzer,analyzer-package,Issues related to package:analyzer,d4c5f9,4,14,18
+1,functionality,analyzer,analyzer-plugin,,d4c5f9,3,1,4
+1,functionality,analyzer,analyzer-quick-fix,,d4c5f9,27,76,103
+1,functionality,analyzer,analyzer-recovery,,d4c5f9,28,35,63
+1,functionality,analyzer,analyzer-refactoring,,d4c5f9,26,69,95
+1,functionality,analyzer,analyzer-server,,d4c5f9,135,499,634
+1,functionality,analyzer,analyzer-stability,,d4c5f9,7,104,111
+1,functionality,analyzer,analyzer-strong-mode,,d4c5f9,21,322,343
+1,functionality,analyzer,analyzer-technical-debt,,d4c5f9,16,2,18
+1,functionality,analyzer,analyzer-test,,d4c5f9,10,30,40
+1,functionality,analyzer,analyzer-ux,,d4c5f9,93,95,188
+1,functionality,area,area-analyzer,,c7def8,1557,5487,7044
+1,functionality,area,area-benchmarks,,c7def8,2,0,2
+1,functionality,area,area-build,Issues with the build system.,c7def8,12,14,26
+1,functionality,area,area-dart-cli,,c7def8,5,13,18
+1,functionality,area,area-documentation,,c7def8,24,348,372
+1,functionality,area,area-front-end,,c5def5,527,1249,1776
+1,functionality,area,area-infrastructure,,c7def8,154,735,889
+1,functionality,area,area-intellij,,c5def5,42,64,106
+1,functionality,area,area-language,Deprecated: New language issues should be filed at https://github.com/dart-lang/language,c7def8,246,1170,1416
+1,functionality,area,area-library,,c7def8,1067,3510,4577
+1,functionality,area,area-meta,,c7def8,51,109,160
+1,functionality,area,area-observatory,,c7def8,102,301,403
+1,functionality,area,area-pkg,,c7def8,22,1323,1345
+1,functionality,area,area-samples,,c7def8,0,169,169
+1,functionality,area,area-sdk,,c7def8,54,171,225
+1,functionality,area,area-specification,,c7def8,46,128,174
+1,functionality,area,area-test,,c7def8,147,504,651
+1,functionality,area,area-vm,,c7def8,886,4605,5491
+1,functionality,area,area-web,Issues related to Dart Web.,c7def8,1065,273,1338
+1,functionality,compiler,dev-compiler-build,,d4c5f9,7,17,24
+1,functionality,compiler,dev-compiler-errors,,d4c5f9,2,13,15
+1,functionality,compiler,dev-compiler-eval,,d4c5f9,1,0,1
+1,functionality,compiler,dev-compiler-fixed-with-kernel,,d4c5f9,1,5,6
+1,functionality,compiler,dev-compiler-html,,d4c5f9,5,13,18
+1,functionality,compiler,dev-compiler-kernel-blocker,Issues that block deprecation of analyzer DDC,d4c5f9,0,13,13
+1,functionality,compiler,dev-compiler-legacy,,d4c5f9,2,0,2
+1,functionality,compiler,dev-compiler-node,,d4c5f9,1,1,2
+1,functionality,compiler,dev-compiler-sdk,,d4c5f9,2,18,20
+1,functionality,compiler,dev-compiler-test,,d4c5f9,8,11,19
+1,functionality,compiler,dev-compiler-ux,,d4c5f9,8,22,30
+1,functionality,customer,customer-analyzer,,006b75,18,20,38
+1,functionality,customer,customer-bazel,,006b75,5,14,19
+1,functionality,customer,customer-cider,,006b75,0,1,1
+1,functionality,customer,customer-dart-2,,006b75,8,23,31
+1,functionality,customer,customer-dart-sass,,006b75,35,15,50
+1,functionality,customer,customer-dart2js,,006b75,10,19,29
+1,functionality,customer,customer-dev-compiler,,006b75,5,11,16
+1,functionality,customer,customer-flutter,,006b75,79,322,401
+1,functionality,customer,customer-fuchsia,,006b75,18,15,33
+1,functionality,customer,customer-google3,,006b75,49,56,105
+1,functionality,customer,customer-pop-pop-win,,006b75,0,6,6
+1,functionality,customer,customer-pub,,006b75,3,7,10
+1,functionality,customer,customer-vm,,006b75,9,47,56
+1,functionality,debugger,observatory-debugger,,d4c5f9,3,9,12
+1,functionality,front-end,front-end-cleanup,,e0881d,13,1,14
+1,functionality,front-end,front-end-directive-listener,,ea0b29,0,3,3
+1,functionality,front-end,front-end-expression-compilation,,eaac75,3,6,9
+1,functionality,front-end,front-end-fasta,,d4c5f9,110,256,366
+1,functionality,front-end,front-end-fasta-recovery,,FF1493,21,33,54
+1,functionality,front-end,front-end-kernel,,d4c5f9,80,229,309
+1,functionality,front-end,front-end-missing-error,,ea0b29,23,84,107
+1,functionality,front-end,front-end-requires-constant-evaluation,Issue that can't be solved without evaluating compile-time constants,a984f9,2,13,15
+1,functionality,language,language-discussion,,d4c5f9,12,17,29
+1,functionality,language,language-spec-discuss,,006b75,0,0,0
+1,functionality,language,language-spec-feature,,006b75,0,0,0
+1,functionality,language,language-spec-formal,,006b75,0,0,0
+1,functionality,language,language-spec-parser,,60db91,2,0,2
+1,functionality,language,language-strong-mode-future-work,,e99695,2,0,2
+1,functionality,language,language-strong-mode-polish,,006b75,22,54,76
+1,functionality,type flow analysis ,tfa,,fc9fad,11,6,17
+1,functionality,web,web-dart2js,,96f2ed,519,2919,3438
+1,functionality,web,web-dev-compiler,,96f2ed,152,625,777
+1,functionality,web,web-js-interop,Issues that impact all js interop,96f2ed,89,105,194
+1,functionality,web,web-libraries,Issues impacting dart:html etc. libraries,96f2ed,97,872,969
+1,functionality,web,web-platform,,96f2ed,2,0,2
+1,implementation details,core,core-2,,c2e0c6,64,45,109
+1,implementation details,core,core-a,,c2e0c6,87,62,149
+1,implementation details,core,core-l,,c2e0c6,35,14,49
+1,implementation details,core,core-m,,c2e0c6,29,5,34
+1,implementation details,core,core-n,,c2e0c6,85,40,125
+1,implementation details,library,dartfuzz,Found with Dart fuzzing (DartFuzz libFuzzer etc.),ff0000,8,140,148
+1,implementation details,library,library-_http,,d4c5f9,13,10,23
+1,implementation details,library,library-async,,d4c5f9,89,241,330
+1,implementation details,library,library-collection,,d4c5f9,16,58,74
+1,implementation details,library,library-convert,,d4c5f9,30,62,92
+1,implementation details,library,library-core,,d4c5f9,183,346,529
+1,implementation details,library,library-developer,,d4c5f9,8,9,17
+1,implementation details,library,library-ffi,,d4c5f9,71,140,211
+1,implementation details,library,library-html,,d4c5f9,253,514,767
+1,implementation details,library,library-html-worker,Issues related to Web Workers and Service Workers,d4c5f9,6,5,11
+1,implementation details,library,library-indexeddb,,d4c5f9,6,11,17
+1,implementation details,library,library-internal,,d4c5f9,1,1,2
+1,implementation details,library,library-io,,d4c5f9,329,1097,1426
+1,implementation details,library,library-isolate,,d4c5f9,39,160,199
+1,implementation details,library,library-js,,d4c5f9,16,68,84
+1,implementation details,library,library-math,,d4c5f9,6,25,31
+1,implementation details,library,library-mirrors,,d4c5f9,42,313,355
+1,implementation details,library,library-svg,,d4c5f9,8,8,16
+1,implementation details,library,library-typed-data,,d4c5f9,13,25,38
+1,implementation details,library,library-wasm,,d4c5f9,0,1,1
+1,implementation details,library,library-web-audio,,d4c5f9,3,4,7
+1,implementation details,library,library-webgl,,d4c5f9,2,18,20
+1,implementation details,package,pkg-benchmark,,ffcda8,0,1,1
+1,implementation details,package,pkg-browser,,ffcda8,0,3,3
+1,implementation details,package,pkg-collection-helpers,,ffcda8,1,2,3
+1,implementation details,package,pkg-fixnum,,ffcda8,0,3,3
+1,implementation details,package,pkg-js,,ffcda8,3,4,7
+1,implementation details,package,pkg-meta,Issues related to package:meta,ffcda8,8,6,14
+1,implementation details,package,pkg-sourcemaps,,ffcda8,0,10,10
+1,implementation details,package,pkg-telemetry,,ffcda8,1,0,1
+1,implementation details,package,pkg-vm-service,,ffcda8,4,7,11
+1,implementation details,part-of,part-of:aot-base,,18f9e3,0,1,1
+1,implementation details,part-of,part-of:pointer-api,,2131a8,0,6,6
+1,issue priority,severity,crash,,b7200c,121,249,370
+1,issue status,cherry pick,cp-approved,Label for approved cherrypick request,fcc7c4,0,7,7
+1,issue status,cherry pick,cp-denied,Label for denied cherrypick request,edac9c,0,1,1
+1,issue status,closed,closed-as-intended,,8d8d8d,1,1263,1264
+1,issue status,closed,closed-cannot-reproduce,,8d8d8d,0,586,586
+1,issue status,closed,closed-duplicate,,8d8d8d,1,2310,2311
+1,issue status,closed,closed-invalid,,8d8d8d,1,628,629
+1,issue status,closed,closed-not-planned,,8d8d8d,1,2264,2265
+1,issue status,closed,closed-obsolete,,8d8d8d,1,2549,2550
+1,issue status,forwarded issues,blocked,,e2668f,20,25,45
+1,issue status,info. needed,needs-info,,e2668f,19,206,225
+1,issue status,issue triage,cherry-pick-review,Issue that need cherry pick triage to approva,f79d9b,0,8,8
+1,issue status,request to delete,pub-delete-request,,d93f0b,0,15,15
+1,issue status,welcome,contributions-welcome,,92aedd,0,0,0
+1,issue type,change request,breaking-change-request,This tracks requests for feedback on breaking changes,b5fcab,3,37,40
+1,issue type,type,type-bug,,ededed,1406,3881,5287
+1,issue type,type,type-code-health,,ededed,86,128,214
+1,issue type,type,type-enhancement,,ededed,1044,5204,6248
+1,issue type,type,type-performance,Issue relates to performance or code size,cd1076,122,109,231
+1,issue type,type,type-question,,f9e4bd,24,66,90
+1,issue type,type,type-task,,ededed,17,665,682
+1,issue type,type aliases,nonfunction-type-aliases,Issues related to non-function type aliases,fef2c0,0,0,0
+1,non-functionality,message quality,improve-diagnostics,Related to the quality of diagnostic messages,65d321,27,19,46
+1,non-functionality,performance,timeout,,ff0000,0,1,1
+1,non-functionality,soundness,soundness,,ededed,4,35,39
+1,non-functionality,type,type-security,,ededed,6,34,40
+1,version,version,dart-1-removal,,04c4dd,3,0,3
+1,version,version,dart2js-compile-time,,d4c5f9,1,4,5
+1,version,version,dart2js-crash,,d4c5f9,15,39,54
+1,version,version,dart2js-ddc-discrepancy,When dev and production compilations have different semantics,d4c5f9,1,0,1
+1,version,version,dart2js-inference,,d4c5f9,9,4,13
+1,version,version,dart2js-info,,d4c5f9,2,3,5
+1,version,version,dart2js-interceptors,,d4c5f9,4,3,7
+1,version,version,dart2js-kernel,,d4c5f9,10,8,18
+1,version,version,dart2js-modular-fe,,d4c5f9,2,0,2
+1,version,version,dart2js-optimization,,d4c5f9,101,44,145
+1,version,version,dart2js-sourcemap,,d4c5f9,7,4,11
+1,version,version,dart2js-ssa,,d4c5f9,1,2,3

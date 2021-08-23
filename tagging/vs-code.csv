@@ -1,0 +1,275 @@
+,tag1,tag2,label,description,color,#open issues,#closed issues,#total issues
+1,configuration,bot,bot-proposal,,ea93e3,5,11,16
+1,configuration,bot,issue-bot,Issues concerning the issue bot!,1d76db,5,0,5
+1,configuration,configuration,config,VS Code configuration set up issues,c5def5,47,315,362
+1,configuration,engineering,engineering,VS Code - Build / issue tracking / etc.,fbca04,27,394,421
+1,configuration,license,license,VS Code and component license issues,0e8a16,3,8,11
+1,configuration,marketpalce,marketplace,Microsoft VS Code Marketplace issues,c5def5,24,28,52
+1,configuration,notebook,notebook,,c5def5,43,78,121
+1,configuration,sandbox,sandbox,Running VSCode in a node-free environment,c5def5,1,0,1
+1,configuration,scm,git,GIT issues,c5def5,137,1850,1987
+1,configuration,scm,merge-conflict,Merge conflict decorations and actions,1d76db,12,49,61
+1,configuration,scm,scm,General SCM compound issues,c5def5,48,314,362
+1,configuration,web,web,Issues related to running VSCode in the web,1d76db,50,180,230
+1,configuration,website,vscode-website,Microsoft VS Code website issues,c5def5,1,2,3
+1,development phase,build,broken-build,Broken current build issues,e11d21,7,96,103
+1,development phase,build,vscode-build,VS Code build process issues,c5def5,0,108,108
+1,development phase,design,*as-designed,Described behavior is as designed,E2A1C2,1,2014,2015
+1,development phase,design,callhierarchy,,c5def5,5,23,28
+1,development phase,design,dependencies,Pull requests that update a dependency file,0366d6,0,5,5
+1,development phase,implementation,debt,Code quality issues,dcdcdc,113,1282,1395
+1,functionality,source format func.,formatting,Source formatter issues,c5def5,11,222,233
+1,development phase,implementation,polish,Cleanup and polish issue,fbca04,60,446,506
+1,development phase,implementation,rename,,c5def5,3,34,37
+1,development phase,implementation,uri,,c5def5,4,61,65
+1,development phase,implementation,variable-resolving,,1d76db,11,8,19
+1,development phase,installation,install-update,VS Code installation and upgrade system issues,c5def5,73,908,981
+1,issue status,awaiting,awaiting-insiders-release,Issues that have been closed but are not yet available in Insiders,e8e00b,0,0,0
+1,development phase,release,candidate,Issue identified as probable candidate for fixing in the next release,fbca04,0,653,653
+1,development phase,release,endgame-plan,VS Code - Next release plan for endgame,dcdcdc,0,63,63
+1,development phase,release,iteration-plan,VS Code - Upcoming iteration plan,dcdcdc,1,49,50
+1,development phase,release,iteration-plan-draft,VS Code - Upcoming iteration plan (Draft),dcdcdc,0,0,0
+1,development phase,release,on-release-notes,Issue mentioned in release notes,E2A1C2,0,48,48
+1,development phase,release,plan-item,VS Code - planned item for upcoming,dcdcdc,20,268,288
+1,development phase,release,release-notes,Release notes issues,c5def5,1,202,203
+1,development phase,release,snap,Issues related to the snap package,c5def5,7,38,45
+1,development phase,test,integration-test,Integration test failure,c5def5,7,30,37
+1,development phase,test,invalid-testplan-item,,e11d21,0,0,0
+1,development phase,test,on-testplan,VS Code - Issue added to test plan,E2A1C2,2,787,789
+1,development phase,test,smoke-test,Smoke test issue,c5def5,1,87,88
+1,development phase,test,testplan-item,Test plan item/assignments for upcoming release,dcdcdc,1,1301,1302
+1,development phase,test,unit-test,Unit Test failure,c5def5,3,11,14
+1,environment,device,gpu,Issues concerning GPU related items,c5def5,18,79,97
+1,environment,device,touch/pointer,Touch and Pointer Device support related issues,1d76db,2,1,3
+1,environment,device,trackpad/scroll,Trackpad device issues,c5def5,9,53,62
+1,environment,extension,*caused-by-extension,Issue identified to be caused by an extension,E2A1C2,0,3432,3432
+1,environment,extension,*extension-candidate,Issue identified as good extension implementation,d4c5f9,0,1310,1310
+1,environment,extension,extension-host,Extension host issues,c5def5,15,86,101
+1,environment,extension,extension-recommendations,Extension recommendations issues,c5def5,3,0,3
+1,environment,extension,extensions,Issues concerning extensions,1d76db,230,2591,2821
+1,environment,extension,extensions-development,Issues for developing extensions,1d76db,7,14,21
+1,environment,extension,samples,Extension samples,1d76db,0,3,3
+1,environment,extension,VIM,VIM issue,c5def5,7,58,65
+1,environment,os,ios,,006b75,5,12,17
+1,environment,os,ipc,Interprocess communication system issues,c5def5,0,9,9
+1,environment,os,linux,Issues with VS Code on Linux,006b75,72,776,848
+1,environment,os,mac,Issues with VS Code on MAC/OS X,006b75,53,450,503
+1,environment,os,macos-catalina,,006b75,7,14,21
+1,environment,os,mojave,VS Code on OS X Mojave issues,006b75,3,20,23
+1,environment,os,virtual-machine,Issues related to virtualbox parallels etc,1e0b7f,1,1,2
+1,environment,os,windows,VS Code on Windows issues,006b75,133,832,965
+1,environment,web browser,chromium,Issues and items related to Chromium,006b75,31,5,36
+1,environment,web browser,edge,Issues running VSCode in Web on Edge,006b75,0,2,2
+1,environment,web browser,firefox,Issues running VSCode in Web on Firefox,006b75,9,25,34
+1,environment,web browser,safari,Issues running VSCode in Web on Safari,006b75,10,26,36
+1,functionality,api,api,Issues & items concerning the VS Code extension API,1d76db,235,1279,1514
+1,functionality,api,api-finalization,Issues and discussion for finalization of new API functionality,c5def5,7,93,100
+1,functionality,api,api-proposal,Issues and discussion of a proposed new API functionality,c5def5,43,97,140
+1,functionality,api,search-api,,c5def5,1,0,1
+1,functionality,api,workspace-edit,Workspace edit API,c5def5,6,51,57
+1,functionality,breadcrumbs,breadcrumbs,Breadcrumbs issues,c5def5,14,150,164
+1,functionality,channel,output,Output channel system issues,1d76db,13,83,96
+1,functionality,console,debug-console,Debug console issues,c5def5,12,186,198
+1,functionality,context,context-keys,,c5def5,4,7,11
+1,functionality,custom,explorer-custom,Custom views issues,1d76db,47,266,313
+1,functionality,dialog,dialogs,Issues with native and custom workbench dialogs,1d76db,5,31,36
+1,functionality,dialog,simple-file-dialog,Simple file dialog,c5def5,11,37,48
+1,functionality,editor,custom-editors,Webview editors,c5def5,16,60,76
+1,functionality,editor,diff-editor,Diff editor mode issues,c5def5,23,152,175
+1,functionality,editor,editor,Editor widget issues,1d76db,18,2029,2047
+1,functionality,editor,editor-autoclosing,Editor automatic closing of parens / brackets / etc.,c5def5,9,94,103
+1,functionality,editor,editor-autoindent,Editor auto indentation issues,c5def5,94,237,331
+1,functionality,editor,editor-bracket-matching,Editor brace matching,c5def5,6,103,109
+1,functionality,editor,editor-clipboard,Editor clipboard issues,c5def5,13,126,139
+1,functionality,editor,editor-code-actions,Editor inplace actions (Ctrl + .),c5def5,14,140,154
+1,functionality,editor,editor-code-lens,Editor code lens issues,c5def5,8,57,65
+1,functionality,editor,editor-color-picker,Editor color picker widget issues,c5def5,19,54,73
+1,functionality,editor,editor-columnselect,Editor column selection issues,c5def5,5,49,54
+1,functionality,editor,editor-commands,Editor text manipulation commands,c5def5,31,64,95
+1,functionality,editor,editor-comments,Editor commenting/uncommenting commands,c5def5,17,7,24
+1,functionality,editor,editor-contrib,Editor collection of extras,c5def5,32,376,408
+1,functionality,editor,editor-core,Editor basic functionality,c5def5,86,470,556
+1,functionality,editor,editor-drag-and-drop,Editor UI drag-and-drop operations,c5def5,13,16,29
+1,functionality,editor,editor-error-widget,,c5def5,2,19,21
+1,functionality,editor,editor-find,Editor find operations,c5def5,101,517,618
+1,functionality,editor,editor-folding,Editor code folding issues,c5def5,64,411,475
+1,functionality,editor,editor-hover,Editor mouse hover,c5def5,37,98,135
+1,functionality,editor,editor-indent-guides,Editor indentation guides,c5def5,7,12,19
+1,functionality,editor,editor-input,Editor text input,c5def5,7,58,65
+1,functionality,editor,editor-input-IME,Editor input of characters not on keyboard,c5def5,18,68,86
+1,functionality,editor,editor-insets,,c5def5,1,5,6
+1,functionality,editor,editor-minimap,Code/Text minimap widget issues,c5def5,21,146,167
+1,functionality,editor,editor-multicursor,Editor multiple cursor issues,c5def5,35,128,163
+1,functionality,editor,editor-parameter-hints,Function method and class parameter hint widget,c5def5,14,49,63
+1,functionality,editor,editor-render-whitespace,,c5def5,9,5,14
+1,functionality,editor,editor-rendering,Editor rendering issues,c5def5,41,202,243
+1,functionality,editor,editor-scrollbar,,c5def5,18,11,29
+1,functionality,editor,editor-symbols,definitions declarations references,c5def5,12,111,123
+1,functionality,editor,editor-synced-region,Issues related to synced region functionality in editor,c5def5,11,6,17
+1,functionality,editor,editor-textbuffer,Editor text buffer,c5def5,19,44,63
+1,functionality,editor,editor-theming,,c5def5,14,7,21
+1,functionality,editor,editor-wordnav,Editor word navigation issues,c5def5,2,28,30
+1,functionality,editor,editor-wrapping,Editor line wrapping issues,c5def5,9,115,124
+1,functionality,editor,settings-editor,VS Code settings editor issues,c5def5,84,673,757
+1,functionality,editor functionality,undo-redo,,c5def5,24,15,39
+1,functionality,emmet,emmet,Emmet related issues,1d76db,52,538,590
+1,functionality,file,file-decorations,File icon and decorations issues,c5def5,10,72,82
+1,functionality,file,file-encoding,File encoding type issues,c5def5,5,57,62
+1,functionality,file,file-explorer,Explorer widget issues,c5def5,98,1270,1368
+1,functionality,file,file-glob,File glob engine,c5def5,5,3,8
+1,functionality,file,file-guess-encoding,File encoding guessing type issues,c5def5,8,6,14
+1,functionality,file,file-io,File I/O,c5def5,14,117,131
+1,functionality,file,file-watcher,File watcher,c5def5,17,166,183
+1,functionality,font,font-rendering,Font rendering issues,c5def5,16,130,146
+1,functionality,grammer,grammar,Syntax highlighting grammar,c5def5,15,411,426
+1,functionality,icon,icon-brand,VS Code brand icon issues,c5def5,2,82,84
+1,functionality,icon,icons-product,Issues for in-product icons,c5def5,20,136,156
+1,functionality,integrated,integrated-terminal,Integrated terminal issues,1d76db,155,4187,4342
+1,functionality,integrated,integrated-terminal-conpty,Integrated terminal issues related to the ConPTY backend,c5def5,5,16,21
+1,functionality,integrated,integrated-terminal-links,,c5def5,7,12,19
+1,functionality,integrated,integrated-terminal-winpty,Integrated terminal issues related to the WinPTY backend,c5def5,1,5,6
+1,functionality,intellisense,intellisense-config,Intellisense configuration issues,c5def5,0,18,18
+1,functionality,intellisense,suggest,IntelliSense Auto Complete,c5def5,67,655,722
+1,functionality,keybindings,keybindings,VS Code keybinding issues,c5def5,73,411,484
+1,functionality,keybindings,keybindings-editor,Keybinding editor issues,c5def5,22,84,106
+1,functionality,label,label-provider,,c5def5,1,0,1
+1,functionality,layout,keyboard-layout,Keyboard layout issues,c5def5,14,123,137
+1,functionality,layout,layout,General VS Code workbench layout issues,1d76db,39,385,424
+1,functionality,log,log,VS Code log issues,c5def5,4,42,46
+1,functionality,menu,menus,Menu items and widget issues,1d76db,52,120,172
+1,functionality,mode,screencast-mode,,c5def5,5,17,22
+1,functionality,network,proxy,Issues regarding network proxies,c5def5,19,69,88
+1,functionality,palette,color-palette,Choice of color issues,c5def5,3,28,31
+1,functionality,portable-mode,portable-mode,VS Code portable mode issues,c5def5,3,11,14
+1,functionality,process,shared-process,VS Code shared process issues,c5def5,0,4,4
+1,functionality,remote,remote,Remote system operations issues,c5def5,30,155,185
+1,functionality,search,search,Search widget and operation issues,1d76db,87,1712,1799
+1,functionality,search,search-editor,,c5def5,6,52,58
+1,functionality,search,search-replace,Search and replace issues,c5def5,10,35,45
+1,functionality,select,smart-select,Smart selection issues,c5def5,1,37,38
+1,functionality,snippets,snippets,Snippets system issues,c5def5,35,434,469
+1,functionality,sync,settings-sync,,1d76db,50,202,252
+1,functionality,sync,settings-sync-server,Settings Sync Server Issues,c5def5,0,2,2
+1,functionality,sync,sync-error-handling,Settings sync error handling issues,c5def5,0,1,1
+1,functionality,tasks,tasks,Task system issues,1d76db,124,1390,1514
+1,functionality,telemetry,error-telemetry,VS Code - Issues generated by telemetry,e99695,7,611,618
+1,functionality,telemetry,telemetry,Telemetry system issues,c5def5,6,47,53
+1,functionality,text,lcd-text-rendering,,c5def5,11,15,26
+1,functionality,themes,themes,Color theme issues,c5def5,64,792,856
+1,functionality,timeline,timeline,Timeline view issues,1d76db,13,48,61
+1,functionality,timeline,timeline-git,Timeline view issues with Git history,c5def5,6,3,9
+1,functionality,title,titlebar,VS Code main title bar issues,1d76db,16,142,158
+1,functionality,token,tokenization,Text tokenization,c5def5,15,18,33
+1,functionality,tokens,semantic-tokens,Semantic tokens issues,c5def5,15,69,84
+1,functionality,typescript,typescript,Typescript support issues,1d76db,53,2271,2324
+1,functionality,view,error-list,Problems view,1d76db,23,265,288
+1,functionality,view,outline,Source outline view issues,c5def5,18,168,186
+1,functionality,view,references-viewlet,,c5def5,11,43,54
+1,functionality,view,remote-explorer,Remote explorer view,1d76db,4,16,20
+1,functionality,view,splitview,Splitview UI system issues,c5def5,4,15,19
+1,functionality,viewlet,debug,Debug viewlet configurations breakpoints adapter issues,1d76db,313,4769,5082
+1,functionality,web,webview,Webview issues,c5def5,53,366,419
+1,functionality,widget,dropdown,DropDown (SelectBox widget) native and custom issues,c5def5,8,77,85
+1,functionality,widget,grid-view,Grid view widget,c5def5,0,11,11
+1,functionality,widget,issue-reporter,Issue reporter widget issues,1d76db,25,89,114
+1,functionality,widget,list,List widget issues,c5def5,16,81,97
+1,functionality,widget,quick-pick,Quick-pick widget issues,c5def5,90,488,578
+1,functionality,widget,tree,Tree widget issues,c5def5,25,270,295
+1,functionality,workbench,workbench-actions,Workbench Actions Support,c5def5,1,2,3
+1,functionality,workbench,workbench-cli,VS Code Command line issues,c5def5,9,71,80
+1,functionality,workbench,workbench-diagnostics,General VS Code built-in diagnostic issues,c5def5,16,82,98
+1,functionality,workbench,workbench-dnd,Drag-and-drop issues,c5def5,9,33,42
+1,functionality,workbench,workbench-editor-grid,Grid layout issues in the editor area,c5def5,3,129,132
+1,functionality,workbench,workbench-editors,Managing of editor widgets in workbench window,c5def5,39,267,306
+1,functionality,workbench,workbench-electron,Electron-VS Code issues,c5def5,2,35,37
+1,functionality,workbench,workbench-feedback,Feedback widget issues,c5def5,2,20,22
+1,functionality,workbench,workbench-history,History item issues,c5def5,9,67,76
+1,functionality,workbench,workbench-hot-exit,Preservation of unsaved changes across restarts,c5def5,5,168,173
+1,functionality,workbench,workbench-launch,Workbench launch,c5def5,0,9,9
+1,functionality,workbench,workbench-link,Link protection in workbench,c5def5,3,19,22
+1,functionality,workbench,workbench-multiroot,Multi-root (multiple folders) issues,c5def5,22,351,373
+1,functionality,workbench,workbench-notifications,Notification widget issues,c5def5,6,129,135
+1,functionality,workbench,workbench-os-integration,Native OS integration issues,c5def5,40,157,197
+1,functionality,workbench,workbench-rapid-render,Splash during startup,c5def5,2,12,14
+1,functionality,workbench,workbench-run-as-admin,Issues concerning running as administrator,c5def5,3,30,33
+1,functionality,workbench,workbench-state,UI state across restarts,c5def5,6,73,79
+1,functionality,workbench,workbench-status,Status bar,c5def5,9,45,54
+1,functionality,workbench,workbench-tabs,VS Code editor tab issues,c5def5,14,397,411
+1,functionality,workbench,workbench-touchbar,Mac touchbar issues,c5def5,1,23,24
+1,functionality,workbench,workbench-views,Custom views issues,c5def5,42,115,157
+1,functionality,workbench,workbench-welcome,Welcome page issues,c5def5,27,117,144
+1,functionality,workbench,workbench-window,Window management,c5def5,7,48,55
+1,functionality,workbench,workbench-zen,Full screen 'Zen' view issues,c5def5,11,38,49
+1,functionality,workspace,workspace-symbols,Workspace Symbols,c5def5,5,14,19
+1,functionality,zoom,zoom,VS Code window zoom issues,c5def5,5,63,68
+1,issue status,invalid,*off-topic,This issue is not related to this project or is not actionable.,e3e3e3,0,77,77
+1,issue status,invalid,*out-of-scope,Posted issue is not in scope of VS Code,E2A1C2,0,2817,2817
+1,issue priority,severity,freeze-slow-crash,VS Code crashing performance and freeze issues,e11d21,43,768,811
+1,issue priority,severity,important,Issue identified as high-priority,e11d21,7,1325,1332
+1,issue status,confirm,confirmation-pending,,ededed,11,6,17
+1,issue status,confirm,confirmed,Issue has been confirmed by VS Code Team member,52ce66,27,44,71
+1,issue status,duplicate,*duplicate,Issue identified as a duplicate of another issue(s),E2A1C2,0,13294,13294
+1,issue status,help,help wanted,Issues identified as good community contribution opportunities,fef2c0,292,1137,1429
+1,issue status,insufficient info,*not-reproducible,Issue cannot be reproduced by VS Code Team member as described,E2A1C2,0,538,538
+1,issue status,insufficient info,~needs more info,Issue requires more information from poster (with bot comment),E2A1C2,0,2,2
+1,issue status,insufficient info,~needs version info,Issue requires version information from poster,E2A1C2,2,6,8
+1,issue status,insufficient info,needs more info,Issue requires more information from poster,E2A1C2,219,12800,13019
+1,issue status,insufficient info,verification-found,Issue verification failed,f7c6c7,14,142,156
+1,issue status,insufficient info,verification-needed,Verification of issue is requested,d4c5f9,2,1956,1958
+1,issue status,insufficient info,verification-steps-needed,Steps to verify are needed for verification,A0D8A0,0,6,6
+1,issue status,insufficient info,verified,Verification succeeded,9800,2,15307,15309
+1,issue status,invalid,invalid,Issue identified as not relevant or not valid,E2A1C2,0,628,628
+1,issue status,mitigated,mitigated,Issue cannot be repro'd at the moment but has workaround in place,59f7b5,8,0,8
+1,issue status,natural language,*english-please,Issue not using English,E2A1C2,3,233,236
+1,issue status,natural language,help translation,Issues related to translation - translation help wanted,fef2c0,0,2,2
+1,issue status,relevance,under-discussion,Issue is under discussion for relevance priority approach,dcdcdc,266,783,1049
+1,issue status,translation,translation-required-arabic,,c29cff,2,1,3
+1,issue status,translation,translation-required-chinese-simplified,,c29cff,1,1,2
+1,issue status,translation,translation-required-chinese-traditional,,c29cff,0,1,1
+1,issue status,translation,translation-required-portuguese-brazil,,c29cff,0,2,2
+1,issue status,wont-fix,wont-fix,,E2A1C2,0,21,21
+1,issue type,bug,bug,Issue identified by VS Code Team member as probable bug,8D6673,917,15498,16415
+1,issue type,bug type,regression,Something that used to work is now broken,8D6673,2,118,120
+1,issue type,comments,comments,Comments Provider/Widget/Panel issues,c5def5,9,38,47
+1,issue type,feature-request,feature-request,Request for new features or functionality,dcdcdc,2330,9965,12295
+1,issue type,good first issue,good first issue,Issues identified as good for first-time contributors,fef2c0,26,335,361
+1,issue type,question,*dev-question,VS Code development questions,E2A1C2,0,245,245
+1,issue type,question,*question,Issue represents a question should be posted to StackOverflow (VS Code),dcdcdc,1,3016,3017
+1,language,language,languages-basic,Basic language support issues,c5def5,25,529,554
+1,language,language,languages-diagnostics,Source problems reporting,c5def5,12,50,62
+1,language,language,languages-guessing,Language guessing issues,c5def5,3,0,3
+1,language,language,markdown,Markdown support issues,1d76db,33,891,924
+1,language,natural language,L10N,Translation issue,1d76db,4,74,78
+1,language,programming language,css-less-scss,Issues and items concerning CSS Less SCSS styling,1d76db,52,537,589
+1,language,programming language,html,HTML issues and items,1d76db,51,570,621
+1,language,programming language,javascript,JavaScript support issues,1d76db,45,2987,3032
+1,language,programming language,json,JSON support issues,1d76db,45,309,354
+1,language,programming language,nodejs,NodeJS support issues,fef2c0,4,34,38
+1,language,programming language,php,PHP support issues,1d76db,17,387,404
+1,language,programming language,WSL,Issue when using WSL,006b75,5,83,88
+1,non-functionality,accessibility,a11ymas,Issue from accessibility team,ededed,3,371,374
+1,non-functionality,accessibility,accessibility,Keyboard mouse ARIA vision screen readers (non-specific) issues,d93f0b,102,946,1048
+1,non-functionality,authentication,authentication,Authentication issues,c5def5,17,43,60
+1,issue status,requested,author-verification-requested,Issues potentially verifiable by issue author,d4c5f9,0,8,8
+1,non-functionality,authentication,z-author-verified,Author's verification succeeded,9.40E+95,0,9,9
+1,non-functionality,internationalization,i18n,Internationalization issues,c5def5,9,368,377
+1,non-functionality,performance,perf,Performance issues,1d76db,25,343,368
+1,non-functionality,performance,perf-bloat,Performance issues related to code bloat,c5def5,0,15,15
+1,non-functionality,performance,perf-profile,Performance profile issues,dcdcdc,1,105,106
+1,non-functionality,performance,perf-startup,Startup performance issues,c5def5,10,102,112
+1,non-functionality,usability,ux,User experience issues,c5def5,129,982,1111
+1,version,update,electron,Issues and items related to Electron,fef2c0,94,790,884
+1,version,update,electron-2-update,Issues and items related to Electron 2.0.x update,fbca04,2,117,119
+1,version,update,electron-3-update,Issues and items related to Electron 3.0.x update,fbca04,0,43,43
+1,version,update,electron-4-update,Issues and items related to Electron 4.0.x update,fbca04,4,32,36
+1,version,update,electron-6-update,Issues and items related to Electron 6.0.x update,fbca04,16,62,78
+1,version,update,electron-7-update,Issues and items related to electron 7 update,fbca04,2,20,22
+1,version,update,electron-8-update,Issues and items related to electron 8 update,fbca04,1,1,2
+1,version,update,electron-blocker,Issues in next update of Electron preventing update,e11d21,0,11,11
+1,version,update,fixed-in-electron-4,Issues fixed with Electron 4.x update,0e8a16,0,31,31
+1,version,update,fixed-in-electron-6,Issues fixed with Electron 6.x update,0e8a16,0,30,30
+1,version,update,fixed-in-electron-7,Issues fixed with Electron 7.x update,0e8a16,2,9,11
+1,version,update,fixed-in-electron-8,Issues fixed with Electron 8.x update,0e8a16,6,0,6
+1,version,update,upstream,Issue identified as 'upstream' component related (exists outside of VS Code),dcdcdc,198,3363,3561
+1,version,update,upstream-issue-fixed,The underlying upstream issue has been fixed,dcdcdc,5,25,30
+1,version,update,upstream-issue-linked,This is an upstream issue that has been reported upstream,dcdcdc,99,160,259
